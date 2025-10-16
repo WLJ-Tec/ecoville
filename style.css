@@ -71,7 +71,7 @@ body{
   padding:12px; border-radius:8px; border:1px solid #e6e9ef; font-size:15px;
 }
 
-.site-footer{ background:var(--blue-900); color:white; padding:18px 0; margin-top:30px; text-align:center; }
+.site-footer{ background:var(--blue-900); color:white; padding:10px 0; margin-top:30px; text-align:center; }
 
 .whatsapp-float{
   position:fixed; right:18px; bottom:18px; background:linear-gradient(180deg,var(--blue-600),var(--blue-900));
