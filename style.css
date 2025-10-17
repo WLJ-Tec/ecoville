@@ -112,3 +112,62 @@ body{
   padding: 0px 0;
   margin-top: 10px;
 }
+
+  .whatsapp-float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 20px;
+    right: 20px;
+    background-color: #25D366;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .whatsapp-float img {
+    width: 28px;
+    height: 28px;
+  }
+
+  .whatsapp-float:hover {
+    background-color: #20b358;
+  }
+
+  .hero {
+  background-color: #007BFF; 
+  color: white; 
+  padding: 20px 0;
+}
+
+
+.logo {
+  height: 50px;
+  margin-left: 20px;
+}
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 40px;
+  flex-wrap: wrap;
+}
+
+.section-title {
+  text-align : center;
+}
+
+.sobre p
+{
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
